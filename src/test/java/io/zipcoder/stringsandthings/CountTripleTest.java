@@ -35,5 +35,4 @@ public class CountTripleTest {
         Assert.assertEquals(expected, actual);
     }
 
-
 }
